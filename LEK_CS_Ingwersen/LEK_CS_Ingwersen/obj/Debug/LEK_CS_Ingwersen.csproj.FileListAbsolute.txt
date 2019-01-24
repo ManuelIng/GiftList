@@ -1,0 +1,6 @@
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\obj\Debug\LEK_CS_Ingwersen.csproj.CoreCompileInputs.cache
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\bin\Debug\LEK_CS_Ingwersen.exe.config
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\bin\Debug\LEK_CS_Ingwersen.exe
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\bin\Debug\LEK_CS_Ingwersen.pdb
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\obj\Debug\LEK_CS_Ingwersen.exe
+C:\Users\daa\source\repos\LEK_CS_Ingwersen\LEK_CS_Ingwersen\obj\Debug\LEK_CS_Ingwersen.pdb
